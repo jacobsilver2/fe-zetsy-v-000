@@ -31,9 +31,13 @@ h2 {
 	color: rgb(111,127,122);
 }
 
+footer {
+	text-align: right;
+}
+
 .small {
 	font-size: .8em;
-	
+
 }
 
 #featured img {
