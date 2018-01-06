@@ -31,6 +31,10 @@ h2 {
 	color: rgb(111,127,122);
 }
 
+.small {
+	font-size: .5em;
+}
+
 #featured img {
 	border: 5px rgb(161, 171, 167) solid;
 }
